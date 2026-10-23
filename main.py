@@ -13,7 +13,7 @@ from google import genai
 from google.genai import types
 
 app = FastAPI() 
-@app.post("/a2a/message:send")
+# @app.post("/a2a/message:send")
 # ---------------------------------------------------------
 # Configuration & Globals
 # ---------------------------------------------------------
